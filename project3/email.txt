@@ -1,1 +1,1 @@
-boga.s@northeastern.edu.shadow
+boga.s@northeastern.edu
